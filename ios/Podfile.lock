@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - tiktok_business_sdk (0.0.1):
+    - Flutter
+    - TikTokBusinessSDK
+  - TikTokBusinessSDK (0.1.18)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - tiktok_business_sdk (from `.symlinks/plugins/tiktok_business_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TikTokBusinessSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  tiktok_business_sdk:
+    :path: ".symlinks/plugins/tiktok_business_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  tiktok_business_sdk: 2d138ec7a175d20fe7035d3c69ad98ceafddf6e6
+  TikTokBusinessSDK: 3edc635087ac97fd135db9681f60d17a0562b08b
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1
